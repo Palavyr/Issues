@@ -1,5 +1,5 @@
 # Issues
-A public repo for users to submit issues. Reach us at support.palavyr@gmail.com
+A public repo for users to submit issues. Reach us at info.palavyr@gmail.com
 
 ## Welcome and thank you for using Palavyr. 
 
